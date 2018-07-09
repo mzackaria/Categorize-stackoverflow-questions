@@ -27,3 +27,6 @@ Les deux notebooks d'explorations et d'études pour trouver une solution
 à notre problème
 
 Le rapport
+
+Pour retrouver le code de l'api, vous pouvez consulter l'url:
+https://github.com/mzackaria/ApiTaggingStackoverflowquestion
